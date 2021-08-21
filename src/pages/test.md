@@ -1,5 +1,6 @@
 ---
-title: My title
----
+title: Titel
+image: "/uploads/knives_paryhin.gif"
 
-# this is a test
+---
+# Do what you want
