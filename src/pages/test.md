@@ -1,5 +1,5 @@
-  ---
-  title: My title
-  ---
+---
+title: My title
+---
 
 # this is a test
